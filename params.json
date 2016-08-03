@@ -1,0 +1,6 @@
+{
+  "name": "ASDM",
+  "tagline": "AnticipatoRy System Dynamics Networks (ASDM) Library",
+  "body": "# Introduction\r\nThe AnticipatoRy System Dynamics Networks (ASDM) library is a genetic algorithm\r\nsystem for automatically generating system dynamics\r\nmodels that differ in both their embedded parameters and their fundamental\r\nequations while maintaining dimensional consistency. It is intended to be\r\nused for anticipatory modeling of systems such as complex networks. A\r\nreference for the ASDM API can be found\r\n[here](http://drmichaelnorth.github.io/ASDM/docs).\r\n\r\n# Authors\r\nARCANE was developed by [Michael J. North](https://www.linkedin.com/in/drmichaelnorth\">), Pam Sydelko, and Ignacio Martinez-Moyano at [Argonne National Laboratory](https://www.anl.gov).",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
